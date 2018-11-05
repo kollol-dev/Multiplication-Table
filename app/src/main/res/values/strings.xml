@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multiplication Table</string>
+    <string name="welcomeString">চলো নামতা শিখি…</string>
+    <string name="expectedNumberAsking">যে সংখ্যার নামতা দেখতে চাও?</string>
+    <string name="submit">সাবমিট!</string>
+    <string name="Copyringt">কপিরাইট রিজার্ভড by Kollol Chakraborty</string>
+    <string name="newInsert">ভিন্ন সংখ্যার নামতা দেখতে এখানে Click কর!</string>
+</resources>
